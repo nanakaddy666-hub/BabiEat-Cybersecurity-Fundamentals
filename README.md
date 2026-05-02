@@ -21,7 +21,7 @@ Every task in this repository is designed to support one of the three pillars of
 | `05_Network_Security.py` | Network auditing script and port discovery simulation. |
 
 ## 🚀 How to Run the Demos
-1. **Clone the repo:** `git clone https://github.com/[YOUR-USERNAME]/[YOUR-REPO-NAME].git`
+1. **Clone the repo:** `git clone https://github.com/nanakaddy666-hub/BabiEat-Cybersecurity-Fundamentals.git`
 2. **Install requirements:** This project uses the professional `cryptography` library.
    ```bash
    pip install cryptography
